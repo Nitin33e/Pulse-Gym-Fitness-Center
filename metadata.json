@@ -1,0 +1,6 @@
+{
+  "name": "Pulse Gym & Fitness Center",
+  "description": "Premier gym and fitness center in Jaiswal Colony, Jagdalpur, Chhattisgarh. Featuring strength training, fitness assessments, weight-loss guidance, and modern workout facilities. Rated 4.7 ⭐ on Google.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
